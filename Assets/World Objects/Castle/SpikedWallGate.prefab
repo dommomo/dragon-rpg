@@ -40,7 +40,7 @@ GameObject:
   - component: {fileID: 65271148693615814}
   - component: {fileID: 65508243420158626}
   m_Layer: 0
-  m_Name: Spiked Wall Gate
+  m_Name: SpikedWallGate
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -106,6 +106,7 @@ MeshRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
+  m_SortingLayer: 0
   m_SortingOrder: 0
 --- !u!33 &33169578309107164
 MeshFilter:

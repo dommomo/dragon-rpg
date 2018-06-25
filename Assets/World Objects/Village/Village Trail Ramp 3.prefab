@@ -23,7 +23,7 @@ GameObject:
   - component: {fileID: 65030600214893562}
   - component: {fileID: 23197877351459820}
   m_Layer: 8
-  m_Name: Ramp Leading To Village 3
+  m_Name: Village Trail Ramp 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -72,6 +72,7 @@ MeshRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
+  m_SortingLayer: 0
   m_SortingOrder: 0
 --- !u!33 &33977165866734610
 MeshFilter:

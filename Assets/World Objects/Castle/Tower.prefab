@@ -24,7 +24,7 @@ GameObject:
   - component: {fileID: 95378682813693256}
   - component: {fileID: 136256402393087116}
   m_Layer: 0
-  m_Name: Stone Tower With Stairs
+  m_Name: Tower
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -76,6 +76,7 @@ MeshRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
+  m_SortingLayer: 0
   m_SortingOrder: 0
 --- !u!33 &33798127077101930
 MeshFilter:

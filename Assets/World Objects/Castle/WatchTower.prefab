@@ -21,7 +21,7 @@ GameObject:
   - component: {fileID: 4299091440119382}
   - component: {fileID: 65875042441268146}
   m_Layer: 0
-  m_Name: Wooden Watch Tower
+  m_Name: WatchTower
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -101,6 +101,7 @@ MeshRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
+  m_SortingLayer: 0
   m_SortingOrder: 0
 --- !u!33 &33756078019313346
 MeshFilter:

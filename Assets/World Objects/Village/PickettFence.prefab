@@ -38,7 +38,7 @@ GameObject:
   - component: {fileID: 4485790557928886}
   - component: {fileID: 65451521691684042}
   m_Layer: 0
-  m_Name: Pickett Fence Piece
+  m_Name: PickettFence
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -102,6 +102,7 @@ MeshRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
+  m_SortingLayer: 0
   m_SortingOrder: 0
 --- !u!33 &33804828595277704
 MeshFilter:

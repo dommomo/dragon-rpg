@@ -21,7 +21,7 @@ GameObject:
   - component: {fileID: 4449663648426590}
   - component: {fileID: 65959527502122944}
   m_Layer: 0
-  m_Name: Piece Of Wooden Dock
+  m_Name: Dock
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -102,6 +102,7 @@ MeshRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
+  m_SortingLayer: 0
   m_SortingOrder: 0
 --- !u!33 &33165794462313058
 MeshFilter:

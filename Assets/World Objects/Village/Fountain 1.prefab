@@ -38,7 +38,6 @@ GameObject:
   - component: {fileID: 4013917337095928}
   - component: {fileID: 33846292168922030}
   - component: {fileID: 23146067121525364}
-  - component: {fileID: 114428856729767836}
   m_Layer: 4
   m_Name: Fountain Water
   m_TagString: Untagged
@@ -179,17 +178,6 @@ MeshFilter:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1190505731639898}
   m_Mesh: {fileID: 4300000, guid: 56b094dd4c1a9ee4b95d99a14d007eb5, type: 3}
---- !u!114 &114428856729767836
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1284445279224790}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 0}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!136 &136815843260449970
 CapsuleCollider:
   m_ObjectHideFlags: 1

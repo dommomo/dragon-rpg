@@ -23,7 +23,7 @@ GameObject:
   - component: {fileID: 65030600214893562}
   - component: {fileID: 23197877351459820}
   m_Layer: 8
-  m_Name: Village Trail Ramp 3
+  m_Name: Ramp Leading To Village 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -36,8 +36,8 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1387535865052738}
   m_LocalRotation: {x: 0.0054334817, y: 0.08113058, z: 0.0666011, w: 0.994461}
-  m_LocalPosition: {x: -18.92, y: 1.54, z: -19.71}
-  m_LocalScale: {x: 23.964298, y: 0.19971, z: 4.1121097}
+  m_LocalPosition: {x: 27, y: 2, z: 111}
+  m_LocalScale: {x: 23.964294, y: 0.19971, z: 4.1121097}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0

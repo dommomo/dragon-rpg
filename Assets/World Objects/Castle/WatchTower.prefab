@@ -21,7 +21,7 @@ GameObject:
   - component: {fileID: 4299091440119382}
   - component: {fileID: 65875042441268146}
   m_Layer: 0
-  m_Name: WatchTower
+  m_Name: Wooden Watch Tower
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -64,7 +64,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1040321284760140}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 15.133209, y: 0, z: -38.202652}
+  m_LocalPosition: {x: 23, y: 0, z: 42}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4123298129011102}
